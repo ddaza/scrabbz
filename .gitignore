@@ -1,3 +1,5 @@
+# Editor Files
+*.swp
 # Logs
 logs
 *.log
